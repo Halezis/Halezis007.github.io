@@ -21,7 +21,7 @@ SH-IT-0101107
 Quadri Saheed Temitope
 SH-IT-0065824
  
-Abenezer Demissie                   
+Abenezer Demissie
 SH-IT-0099016
 
 Mercy Sodeinde
