@@ -36,5 +36,19 @@ SH-IT-0122916
 Ridwanullahi Lawal
 SH-IT-0051911
 
+Idowu Olanrewaju Idris
+SH-IT-0106843
+
+Forlong Emerson
+SH-IT-0146587
+
+Amira Mustapha
+SH-IT-0012997
+
+Sheila Cherono 
+SH-IT-0086848
+
+Achugwo Success
+SH-IT-0110010
 
 Here is the live link to our project https://halezis007.github.io/
